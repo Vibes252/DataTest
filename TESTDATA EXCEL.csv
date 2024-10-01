@@ -1,0 +1,75 @@
+﻿Toolname,Uses
+Gen - Screenshot,1568
+Gen - 3D Print,3
+Gen - Sheet Metal,128
+Gen - PyTWD Link,11
+Gen - Sharepoint Link,3
+ASM - Clash Check,0
+ASM - Stiffener,225
+ASM - Wingplate,32
+ASM - End Cap,35
+ASM - Baseplate,27
+ASM - Stopper,19
+ASM - Anglebar,4
+ASM - Padeye,47
+ASM - End plate,354
+ASM - Add Midplane,6
+ASM - Ground and Root,1317
+ASM - Mate Origins,324
+ASM - Quantities,273
+ASM - STEP Export,243
+ASM - Reset All Reps,896
+ASM - Reset Selected Reps,36
+ASM - Reset One Reps,4
+ASM - Parameter Update,3
+ASM - Mate XY,215
+ASM - Mate XZ,53
+ASM - Mate YZ,86
+MTO - MTO Tool,1537
+MTO - Update MTO,22
+MTO - Convert to profile,36
+DWG - 3.5 A-A' Section,13
+DWG - Add Space,384
+DWG - Default,31
+DWG - Front,462
+DWG - Top,333
+DWG - Side,358
+DWG - ISO,234
+DWG - 4 Views,41
+DWG - Section,105
+DWG - Flat pattern,84
+DWG - Detail,43
+DWG - Stock Nr.,310
+DWG - Add Text,124
+DWG - Match Label,11
+DWG - Revision Cloud,1494
+DWG - Hold Cloud,111
+DWG - Remove Clouds,24
+DWG - Defer Updates,433
+DWG - Copy Sheet,2
+DWG - Typical,721
+DWG - Clearance,391
+DWG - Asterisk,141
+DWG - Reference,1594
+DWG - Dimensions,113
+DWG - Renumber Sections,124
+DWG - Renumber Details,57
+DWG - Place CoG,181
+DWG - Profile Leader,569
+DWG - Bolt Leader,43
+DWG - Notes and References,121
+DWG - View Manager,1179
+DWG - DWG Export,240
+DWG - PDF Export,1936
+DWG - Batch Export,3
+TMP - Create Pin,3
+PRT - Make Parts,1242
+DWG - X Align,0
+DWG - X Distribute,0
+DWG - X Extremes,0
+DWG - Y Align,0
+DWG - Y Distribute,0
+DWG - Y Extremes,0
+PRT - Profile Outline,98
+Gen - Help,1
+Gen - Help,0
