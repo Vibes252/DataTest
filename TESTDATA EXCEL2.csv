@@ -1,0 +1,75 @@
+﻿Inventor Tool name,Image,Counter
+ASM - Add Midplane,Picture,1
+ASM - Anglebar,Picture,4
+ASM - Baseplate,Picture,27
+ASM - Clash Check,Picture,0
+ASM - End Cap,Picture,30
+ASM - End plate,Picture,216
+ASM - Ground and Root,Picture,943
+ASM - Mate Origins,Picture,260
+ASM - Mate XY,Picture,141
+ASM - Mate XZ,Picture,46
+ASM - Mate YZ,Picture,73
+ASM - Padeye,Picture,33
+ASM - Parameter Update,Picture,2
+ASM - Quantities,Picture,201
+ASM - Reset All Reps,Picture,698
+ASM - Reset One Reps,Picture,2
+ASM - Reset Selected Reps,Picture,24
+ASM - STEP Export,Picture,183
+ASM - Stiffener,Picture,212
+ASM - Stopper,Picture,16
+ASM - Wingplate,Picture,23
+DWG - 3.5 A-A' Section,Picture,10
+DWG - 4 Views,Picture,32
+DWG - Add Space,Picture,296
+DWG - Add Text,,88
+DWG - Asterisk,Picture,104
+DWG - Batch Export,Picture,2
+DWG - Bolt Leader,Picture,40
+DWG - Clearance,Picture,324
+DWG - Copy Sheet,Picture,2
+DWG - Default,Picture,19
+DWG - Defer Updates,Picture,341
+DWG - Detail,Picture,36
+DWG - Dimensions,Picture,62
+DWG - DWG Export,Picture,202
+DWG - Flat pattern,Picture,65
+DWG - Front,Picture,360
+DWG - Hold Cloud,Picture,92
+DWG - ISO,Picture,189
+DWG - Match Label,Picture,10
+DWG - Notes and References,Picture,73
+DWG - PDF Export,Picture,1540
+DWG - Place CoG,Picture,136
+DWG - Profile Leader,Picture,477
+DWG - Reference,Picture,1252
+DWG - Remove Clouds,Picture,11
+DWG - Renumber Details,Picture,51
+DWG - Renumber Sections,Picture,100
+DWG - Revision Cloud,Picture,884
+DWG - Section,Picture,73
+DWG - Side,Picture,291
+DWG - Stock Nr.,,222
+DWG - Top,Picture,258
+DWG - Typical,Picture,627
+DWG - View Manager,Picture,920
+DWG - X Align,Picture,0
+DWG - X Distribute,Picture,0
+DWG - X Extremes,Picture,0
+DWG - Y Align,Picture,0
+DWG - Y Distribute,Picture,0
+DWG - Y Extremes,Picture,0
+Gen - 3D Print,Picture,3
+Gen - Help,Picture,0
+Gen - Help,Picture,1
+Gen - PyTWD Link,Picture,8
+Gen - Screenshot,Picture,1245
+Gen - Sharepoint Link,Picture,2
+Gen - Sheet Metal,Picture,112
+MTO - Convert to profile,Picture,20
+MTO - MTO Tool,Picture,1189
+MTO - Update MTO,Picture,16
+PRT - Make Parts,Picture,973
+PRT - Profile Outline,Picture,80
+TMP - Create Pin,Picture,3
